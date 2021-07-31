@@ -1,0 +1,25 @@
+.DIV{
+    width: 500px;
+    margin:auto;
+}
+#Title{
+    font-size:30px;
+    color:chocolate;
+}
+#nextjokebtn{
+    width:100px;
+    border-radius: 0.5em;
+    background-color: blue;
+    color: white;
+    font-size: large;
+}
+body{
+    background-color:wheat;
+}
+.MAIN{
+    display: flex;
+}
+#img{
+    height: 650px;
+    width: 600px;
+}
